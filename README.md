@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a Junior java Developer</h3>
 
 - 📝 I regularly write articles on [https://burhanmutlu.tech](https://burhanmutlu.tech)
 
