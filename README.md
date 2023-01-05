@@ -4,7 +4,7 @@
 - 📝 I regularly write articles on [https://burhanmutlu.tech](https://burhanmutlu.tech)
 - 🎥 You can visit my youtube channel: [https://youtube.com/@burhanmutlu](https://youtube.com/@burhanmutlu)
 
-- 💬 Ask me about **c++, algorithm, java**
+
 
 
 </p>
