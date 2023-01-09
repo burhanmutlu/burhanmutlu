@@ -1,9 +1,6 @@
 ### Hi! Welcome to my github page. 👋
 
-
 I'm Burhan Mutlu. I'm a Junior java Developer
-
-![Profile Views](https://komarev.com/ghpvc/?username=burhanmutlu)
 
 ![Burhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=burhanmutlu&show_icons=true)
 
@@ -11,13 +8,11 @@ I'm Burhan Mutlu. I'm a Junior java Developer
 
 B.S in Information Systems and Technologies |  [Mersin University](https://www.mersin.edu.tr/)
 
+## Contact Me 📫
 
 You can visit my youtube channel: [https://youtube.com/@burhanmutlu](https://youtube.com/@burhanmutlu)
 
 I regularly write articles on [https://burhanmutlu.tech](https://burhanmutlu.tech)
-
-
-## Contact Me 📫
 
 You can find and get touch with me via Linkedin and Instagram!
 
