@@ -2,6 +2,10 @@
 
 I'm Burhan Mutlu. I'm a Junior java Developer
 
+You can visit my youtube channel: [https://youtube.com/@burhanmutlu](https://youtube.com/@burhanmutlu)
+
+you can visit my website: [https://burhanmutlu.tech](https://burhanmutlu.tech)
+
 ![Burhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=burhanmutlu&show_icons=true)
 
 ## Graduation
@@ -9,10 +13,6 @@ I'm Burhan Mutlu. I'm a Junior java Developer
 B.S in Information Systems and Technologies |  [Mersin University](https://www.mersin.edu.tr/)
 
 ## Contact Me 📫
-
-You can visit my youtube channel: [https://youtube.com/@burhanmutlu](https://youtube.com/@burhanmutlu)
-
-I regularly write articles on [https://burhanmutlu.tech](https://burhanmutlu.tech)
 
 You can find and get touch with me via Linkedin and Instagram!
 
