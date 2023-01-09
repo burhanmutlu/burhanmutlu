@@ -4,12 +4,11 @@ I'm Burhan Mutlu. I'm a Junior java Developer
 
 ![Burhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=burhanmutlu&show_icons=true)
 
-## Graduation
+## Education
 
 B.S in Information Systems and Technologies |  [Mersin University](https://www.mersin.edu.tr/)
 
 ## Contact Me 📫
-
 
 You can visit my youtube channel: [https://youtube.com/@burhanmutlu](https://youtube.com/@burhanmutlu)
 
