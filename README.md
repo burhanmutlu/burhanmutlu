@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm Burhan Mutlu</h1>
-<h3 align="center">I'm a Junior java Developer</h3>
-
-- 📝 I regularly write articles on [https://burhanmutlu.tech](https://burhanmutlu.tech)
-- 🎥 You can visit my youtube channel: [https://youtube.com/@burhanmutlu](https://youtube.com/@burhanmutlu)
-
-
-
-
-</p>
-
 ### Hi! Welcome to my github page. 👋
 
 
@@ -34,4 +23,3 @@ You can find and get touch with me via Linkedin and Instagram!
 
 [![Linkedin Badge](https://img.shields.io/badge/burhanmutlu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burhanmutlu/)
 [![Instagram Badge](https://img.shields.io/badge/kodailesi-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/kodailesi/)
-
