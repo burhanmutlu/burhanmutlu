@@ -1,6 +1,6 @@
 ### Hi! Welcome to my github page. 👋
 
-I'm Burhan Mutlu. I'm a Junior Java Developer
+I'm Burhan Mutlu. I'm a Java Developer
 
 ![Burhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=burhanmutlu&show_icons=true)
 
