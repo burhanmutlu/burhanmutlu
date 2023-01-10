@@ -6,7 +6,7 @@ I'm Burhan Mutlu. I'm a Java Developer
 
 ## Education 🎓
 
-2020-2024 B.S in Information Systems and Technologies | Mersin University
+2020-2024 B.S in Information Systems and Technologies | Mersin Üniversitesi
 
 ## Contact Me 📫
 
