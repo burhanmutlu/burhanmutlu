@@ -4,7 +4,7 @@ I'm Burhan Mutlu. I'm a Java Developer
 
 ![Burhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=burhanmutlu&show_icons=true)
 
-## Education
+## Education 🎓
 
 2020-2024 B.S in Information Systems and Technologies | Mersin University
 
