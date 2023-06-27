@@ -1,6 +1,6 @@
 ### Hi! Welcome to my github page. 👋
 
-I'm Burhan Mutlu. I'm a Java Developer
+I'm Burhan Mutlu. I'm a Backend Developer
 
 
 
