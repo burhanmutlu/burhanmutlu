@@ -17,4 +17,3 @@ You can visit my website: [https://burhanmutlu.tech](https://burhanmutlu.tech)
 You can find and get touch with me via Linkedin and Instagram!
 
 [![Linkedin Badge](https://img.shields.io/badge/burhanmutlu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burhanmutlu/)
-[![Instagram Badge](https://img.shields.io/badge/kodailesi-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/kodailesi/)
