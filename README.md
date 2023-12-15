@@ -14,6 +14,6 @@ You can visit my youtube channel: [https://youtube.com/@burhanmutlu](https://you
 
 You can visit my website: [https://burhanmutlu.tech](https://burhanmutlu.tech)
 
-You can find and get touch with me via Linkedin and Instagram!
+You can find and get touch with me via Linkedin!
 
 [![Linkedin Badge](https://img.shields.io/badge/burhanmutlu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burhanmutlu/)
