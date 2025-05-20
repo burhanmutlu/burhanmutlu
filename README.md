@@ -26,11 +26,28 @@ With 4 years of academic and practical training in healthcare and experience in 
 ## 🧩 Technical Skills
 
 - **Languages & Tools:**  
-  `Java` `Spring Boot` `PHP` `MySQL` `JavaScript` `HTML` `CSS` `Python` `C++` `C#`  
-  `Git` `CMS` `Microsoft SQL Server`
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![CMS](https://img.shields.io/badge/-CMS-blue?style=flat-square)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server)
+
 
 - **Areas of Interest:**  
-  `OOP` `Backend Development` `Image Processing` `Health IT Systems` `Cryptology`
+![OOP](https://img.shields.io/badge/-OOP-blueviolet?style=flat-square)
+![Backend Development](https://img.shields.io/badge/-Backend%20Dev-0A0A0A?style=flat-square)
+![Image Processing](https://img.shields.io/badge/-Image%20Processing-teal?style=flat-square)
+![Health IT](https://img.shields.io/badge/-Health%20IT%20Systems-darkgreen?style=flat-square)
+![Cryptology](https://img.shields.io/badge/-Cryptology-purple?style=flat-square)
+
 
 - **Soft Skills:**  
   `Team Collaboration` `Communication` `Problem Solving` `Project Ownership`
@@ -46,18 +63,13 @@ With 4 years of academic and practical training in healthcare and experience in 
 
 ---
 
+## 🔥 My Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=burhanmutlu&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhanmutlu&layout=compact&theme=tokyonight)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat-square&logo=mongodb)
 
 ![snake gif](https://github.com/burhanmutlu/burhanmutlu/blob/output/github-contribution-grid-snake.svg)
-
-
-
 
 ---
 
