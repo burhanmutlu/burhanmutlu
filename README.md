@@ -54,7 +54,10 @@ With 4 years of academic and practical training in healthcare and experience in 
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat-square&logo=mongodb)
 
+### 🐍 GitHub Aktivite Yılanım
+
 ![snake gif](https://github.com/burhanmutlu/burhanmutlu/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
