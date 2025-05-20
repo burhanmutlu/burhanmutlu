@@ -49,6 +49,11 @@ With 4 years of academic and practical training in healthcare and experience in 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=burhanmutlu&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhanmutlu&layout=compact&theme=tokyonight)
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat-square&logo=mongodb)
+
 
 ---
 
