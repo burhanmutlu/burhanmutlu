@@ -47,6 +47,8 @@ With 4 years of academic and practical training in healthcare and experience in 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=burhanmutlu&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhanmutlu&layout=compact&theme=tokyonight)
+
 
 ---
 
