@@ -30,7 +30,8 @@ With 4 years of academic and practical training in healthcare and experience in 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
@@ -38,19 +39,19 @@ With 4 years of academic and practical training in healthcare and experience in 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![CMS](https://img.shields.io/badge/-CMS-blue?style=flat-square)
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server)
-
 
 - **Areas of Interest:**  
 ![OOP](https://img.shields.io/badge/-OOP-blueviolet?style=flat-square)
-![Backend Development](https://img.shields.io/badge/-Backend%20Dev-0A0A0A?style=flat-square)
+![Backend Development](https://img.shields.io/badge/-Backend%20Development-0A0A0A?style=flat-square&logo=serverfault)
 ![Image Processing](https://img.shields.io/badge/-Image%20Processing-teal?style=flat-square)
-![Health IT](https://img.shields.io/badge/-Health%20IT%20Systems-darkgreen?style=flat-square)
+![Health IT Systems](https://img.shields.io/badge/-Health%20IT%20Systems-darkgreen?style=flat-square)
 ![Cryptology](https://img.shields.io/badge/-Cryptology-purple?style=flat-square)
 
-
 - **Soft Skills:**  
-  `Team Collaboration` `Communication` `Problem Solving` `Project Ownership`
+![Team Collaboration](https://img.shields.io/badge/-Team%20Collaboration-4CAF50?style=flat-square)
+![Communication](https://img.shields.io/badge/-Communication-2196F3?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF9800?style=flat-square)
+![Project Ownership](https://img.shields.io/badge/-Project%20Ownership-9C27B0?style=flat-square)
 
 ---
 
