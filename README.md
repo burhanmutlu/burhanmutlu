@@ -70,7 +70,9 @@ With 4 years of academic and practical training in healthcare and experience in 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhanmutlu&layout=compact&theme=tokyonight)
 
 
-![snake gif](https://github.com/burhanmutlu/burhanmutlu/blob/dist/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/burhanmutlu/burhanmutlu/blob/output/dist/github-contribution-grid-snake.svg)
+
 
 ---
 
