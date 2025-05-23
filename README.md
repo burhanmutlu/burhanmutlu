@@ -81,6 +81,3 @@ With 4 years of academic and practical training in healthcare and experience in 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@burhanmutlu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/burhanmmutlu/)
 
----
-
-📌 *“Blending healthcare knowledge with technical expertise to shape smarter health IT solutions.”*
