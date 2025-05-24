@@ -1,4 +1,3 @@
-
 # Hi there 👋 I'm Burhan Mutlu
 
 🎓 **Bachelor's in Information Systems and Technologies** from Mersin University  
